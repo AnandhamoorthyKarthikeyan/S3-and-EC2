@@ -1,8 +1,12 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
-Aim:
+
+## NAME: ANANDHAMOORTHY.K
+## REG NO: 212222100004
+
+# Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
-Procedure
+# Procedure
 a) Steps to Create a first S3 Bucket:
 
 Step 1: Sign in to the AWS Management Console Go to https://console.aws.amazon.com/s3. 
@@ -56,14 +60,19 @@ d) Steps to Clean Up (Terminate the Instance)
 Go to EC2 Instances.
 Select your instance → Instance State → Terminate.
 
-Output:
+# Output:
 
 Simple Storage Service:
+![image](https://github.com/user-attachments/assets/cbf99d29-f8c8-4601-8ce3-2813bf4599d9)
 
-![image](https://github.com/user-attachments/assets/bc0d38bd-8637-454f-a5e8-e2ca0e373526)
 
 EC2(Elastic Cloud Compute)
-![image](https://github.com/user-attachments/assets/9d91ffc0-2e29-49f5-b8d8-fe5616a43ff7)
+![image](https://github.com/user-attachments/assets/36c30ac3-212a-4875-8f54-94360cd25c65)
 
-Result:
+
+
+
+
+
+# Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
